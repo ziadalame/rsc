@@ -1,5 +1,7 @@
 # Reactively Styled Components
 
+[![npm](https://img.shields.io/npm/v/npm.svg)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+
 Reactively Styled components is a ReactNative library inspired from the popular frontend framework Bootstrap. It implemetnts similar classes to give you speed of styling and developing apps without having to write the default styling over and over again.
 
 ## Installation
